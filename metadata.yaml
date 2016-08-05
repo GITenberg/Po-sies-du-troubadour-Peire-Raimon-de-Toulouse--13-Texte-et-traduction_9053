@@ -1,0 +1,34 @@
+_repo: Po-sies-du-troubadour-Peire-Raimon-de-Toulouse--13-Texte-et-traduction_9053
+_version: 0.0.1
+alternative_title: Poesies du troubadour Peire Raimon de Toulouse
+contributor:
+  translator:
+    agent_name: Anglade, Joseph
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '2958'
+    url: http://www.gutenberg.org/2009/agents/2958
+    wikipedia: http://fr.wikipedia.org/wiki/Joseph_Anglade
+creator:
+  author:
+    agent_name: Peire Raimon, of Toulouse
+    gutenberg_agent_id: '39241'
+    url: http://www.gutenberg.org/2009/agents/39241
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9053'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Peire Raimon, of Toulouse, approximately 1180-approximately 1225'
+- !lcsh 'Provençal poetry -- Translations into French'
+- !lcsh 'Troubadours'
+- GITenberg
+title: "Poésies du troubadour Peire Raimon de Toulouse\r\nTexte et traduction"
+url: http://www.gutenberg.org/ebooks/9053
