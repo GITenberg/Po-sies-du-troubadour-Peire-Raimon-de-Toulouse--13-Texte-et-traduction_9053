@@ -1,5 +1,5 @@
 _repo: Po-sies-du-troubadour-Peire-Raimon-de-Toulouse--13-Texte-et-traduction_9053
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Poesies du troubadour Peire Raimon de Toulouse
 contributor:
   translator:
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '2958'
     url: http://www.gutenberg.org/2009/agents/2958
     wikipedia: http://fr.wikipedia.org/wiki/Joseph_Anglade
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Peire Raimon, of Toulouse
     gutenberg_agent_id: '39241'
     url: http://www.gutenberg.org/2009/agents/39241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9053#Po-sies-du-troubadour-Peire-Raimon-de-Toulouse--13-Texte-et-traduction
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
